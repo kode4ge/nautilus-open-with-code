@@ -1,6 +1,6 @@
 # Nautilus: Open with Code
 
-[![Nautilus Extension](https://img.shields.io/badge/Nautilus-Extension-brightgreen)](https://wiki.gnome.org/Apps/Files)
+[![Nautilus Extension](https://img.shields.io/badge/Nautilus-Extension-brightgreen)](https://gitlab.gnome.org/GNOME/nautilus)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-alpha-orange)](https://github.com/kode4ge/nautilus-open-with-code/releases/tag/v0.1.0-alpha)
