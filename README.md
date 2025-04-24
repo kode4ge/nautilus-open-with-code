@@ -1,11 +1,24 @@
-# nautilus-open-with-code
+# Nautilus: Open with Code
 
-## TODO
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
+[![Nautilus Extension](https://img.shields.io/badge/Nautilus-Extension-brightgreen)](https://wiki.gnome.org/Apps/Files)
+
+A simple Nautilus extension that adds an **“Open with Code”** context menu item for folders.
+
+
+## 🚀 Features
+
+- Right-click on any folder and open it in **Visual Studio Code**.
+- Clean and minimal Python code.
+
+
+## 📝 TODO
 
 - Test `.deb` package on a VM in order to check if the dependencies, including VS Code, are automatically installed.
 
 
-## Tags and releases
+## 🛠️ Tags and releases
 
 ```
 git tag -a v0.1.0-alpha -m "Note: Not meant for production yet"
