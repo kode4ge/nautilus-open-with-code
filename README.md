@@ -1,8 +1,9 @@
 # Nautilus: Open with Code
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
 [![Nautilus Extension](https://img.shields.io/badge/Nautilus-Extension-brightgreen)](https://wiki.gnome.org/Apps/Files)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-alpha-orange)](https://github.com/kode4ge/nautilus-open-with-code/releases/tag/v0.1.0-alpha)
 
 A simple Nautilus extension that adds an **“Open with Code”** context menu item for folders.
 
