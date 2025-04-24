@@ -2,7 +2,7 @@
 
 #set -x
 
-PACKAGE_VERSION="0.1.0"
+PACKAGE_VERSION="0.1.0-alpha"
 PACKAGE_NAME="nautilus-open-with-code"
 PACKAGE_FULL_NAME="${PACKAGE_NAME}_${PACKAGE_VERSION}"
 STAGE_DIR="./stage"
